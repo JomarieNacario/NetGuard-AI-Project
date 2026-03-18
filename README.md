@@ -45,8 +45,31 @@ git clone (https://github.com/JomarieNacario/netguard-ai-incident-summarizer)
 
 ## 📂 Testing Guide
 
-### 🛡️ Responsible AI & Data Privacy
+Use the provided samples in the ```/samples``` directory to test the AI's reasoning:
 
-###🔮 Future Roadmap
+*```brute_force.txt```: Tests the model's ability to spot successful logins after multiple failures.
 
-### 🤝 Connect
+*```wlan_audit.txt```: Tests identification of legacy encryption risks (TKIP).
+
+# 🛡️ Responsible AI & Data Privacy
+This project adheres to strict **Responsible AI** principles:
+ * **Data Minimization**: No PII is stored or used for model retraining.
+* **Human-in-the-Loop**: All AI-generated remediation steps must be verified by a qualified professional.
+* **Migration-Ready**: While prototyped in AI Studio, the architecture is documented for a secure **Vertex AI** migration to support enterprise privacy standards (see ```migration_guide.pdf```).
+
+# 🔮 Future Roadmap
+
+* Autonomous Remediation: Use tool-calling to automatically update firewall rules.
+* Multimodal Inputs: Upload screenshots of network topology for visual analysis.
+* Local LLM Support: Integration with Gemma 2 for high-privacy local processing.
+
+# 🤝 Connect
+
+Jomarie Nacario
+
+_U.S. Army Veteran | Cloud Support Engineer | AI Specialist_
+
+[LinkedIn](https://www.linkedin.com/in/j-nacario) | [Github](https://github.com/JomarieNacario/JomarieNacario)
+
+_Developed as a Capstone Project for the Google AI Professional Certificate._
+
