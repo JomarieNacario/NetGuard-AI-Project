@@ -32,7 +32,7 @@ I upgraded the backend to Gemini 3.1 Pro to leverage its superior abstract reaso
 
  ### 1. Prerequisites
 * Python 3.14
-* A Google AI Studio API Key (Get one here)
+* A Google AI Studio API Key [Get one here](https://aistudio.google.com/welcome)
   
  ### 2. Setup
  ```
