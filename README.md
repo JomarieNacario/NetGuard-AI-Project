@@ -28,17 +28,25 @@ As a U.S. Army Veteran transitioning into Cloud Support and AI Engineering, I de
 ###  🧠 Why Gemini 3.1 Pro?
 I upgraded the backend to Gemini 3.1 Pro to leverage its superior abstract reasoning. In a security context, this allows the model to perform "Deep Inference"—recognizing that a port scan followed by a failed privilege escalation isn't two random events, but a coordinated attack chain.
 
-## 🛠️ Installation & Usage
+ ## 🛠️ Installation & Usage
 
-### 1. Prerequisites
-* Python 3.10+
+ ### 1. Prerequisites
+* Python 3.14
 * A Google AI Studio API Key (Get one here)
+  
+ ### 2. Setup
+ ```
+git clone (https://github.com/JomarieNacario/netguard-ai-incident-summarizer)
+```
+``` cd netguard-ai ```  
+ ``` pip install -r requirements.txt ```
+ ### 3. Run the App
+ ``` streamlit run app.py```
 
-### 2. Setup
-```bash
-git clone [https://github.com/JomarieNacario/netguard-ai.git](https://github.com/JomarieNacario/netguard-ai.git)
-cd netguard-ai
-pip install -r requirements.txt ```
+## 📂 Testing Guide
 
+### 🛡️ Responsible AI & Data Privacy
 
-### 3.
+###🔮 Future Roadmap
+
+### 🤝 Connect
