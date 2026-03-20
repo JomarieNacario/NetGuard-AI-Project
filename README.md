@@ -6,7 +6,6 @@
 As a U.S. Army Veteran transitioning into Cloud Support and AI Engineering, I developed NetGuard AI to solve a critical friction point identified during my IT Support and Cybersecurity training: the "Technical-to-Business" translation gap. Leveraging the Google AI Professional Certificate curriculum, this project demonstrates how generative AI acts as a force multiplier for IT teams.
 
 ### 🔑 Key Highlights
-* **Military Leadership:** Marine Engineer (U.S. Army) with a focus on disciplined problem-solving and operational security.
 * **Cloud & AI Fluent:** Built with Gemini 3.1 Pro Preview, showcasing expertise in Google Cloud's most advanced reasoning models.
 * **Domain Expertise:** Specifically tuned to identify signatures like SSH Brute Force, Nmap Reconnaissance, and TKIP vulnerabilities.
 
