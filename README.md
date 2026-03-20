@@ -1,4 +1,4 @@
-# 🛡️ NetGuard AI: Incident Summarizer
+# 🛡️ NetGuard AI: Incident Summarizer v1
 
 # 🚀 Executive Summary
 **The Mission:** Bridge the communication gap between complex network security data and actionable business intelligence.
